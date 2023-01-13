@@ -1,6 +1,6 @@
 # Async
 
-<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230113T052027Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f1ee9b4c75a628b32314128eaeae42b08c72529b9f3ed1834dbb9ed8d000f1df" alt="A cool Async image">
+![alt="A cool Async image"](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230113T052027Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=f1ee9b4c75a628b32314128eaeae42b08c72529b9f3ed1834dbb9ed8d000f1df)
 
 This project contains tasks for learning to use asynchronous code in Python 3.
 
